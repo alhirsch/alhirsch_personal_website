@@ -1,0 +1,112 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	color: #d7d7d7;
+	background: #383838 url('img/bg-texture.jpg') repeat;
+}
+
+a {
+	color: #729fcf;
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	padding: 25px 0 15px 0;
+	font-size: 3.0em;
+	color: #d7d7d7;
+}
+
+h2 {
+	font-size: 1.5000em;
+	color: #d7d7d7;
+}
+
+h3 {
+	font-size: 1.10em;
+	color: #797d79;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.btn {
+	color: #d7d7d7;
+	background: #729fcf;
+	padding: 15px 30px;
+	margin: 40px 0px;
+	border-radius: 10px;	
+}
+
+.btn:hover {
+	background-color: #accae8;
+}
+
+ul.nav {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	padding-left: 150px;
+	width: 1000px;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 60px
+}
+
+#about_me_pic img{
+	border: 8px solid #2a2a2a;
+}
+
+#about_me_img div {
+	padding-top: 25px;
+}
+
+#about_me_txt {
+	
+}
+
+.pdf_viewer_btn {
+	color: #d7d7d7;
+	background: #ad7673;
+	padding: 15px 30px;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.pdf_viewer_btn:hover {
+	background-color: #3f2321;
+}
+
+#resume_toggle {
+	padding-bottom: 50px;
+	margin: 20px;
+}
+
+#cv_toggle {
+	padding-bottom: 50px;
+	margin: 20px;
+}
+
+#contact_me_pic img{
+	border: 8px solid #2a2a2a;
+}
+
+#contact_me_img div {
+	padding-top: 25px;
+}
+
+p.text_content {
+	text-indent: 2em;
+}
+
+div.weblink_box {
+	background-color: #2a2a2a;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#weblink_header {
+	text-align: center;
+}
