@@ -1,7 +1,7 @@
 body {
 	font-family: 'Ubuntu', sans-serif;
-	color: #d7d7d7;
-	background: #383838 url('img/bg-texture.jpg') repeat;
+	color: #ffffff;
+	background: #666666 url('img/bg-texture.jpg') repeat;
 }
 
 a {
@@ -13,31 +13,31 @@ h1 {
 	text-align: center;
 	padding: 25px 0 15px 0;
 	font-size: 3.0em;
-	color: #d7d7d7;
+	color: #ffffff;
 }
 
 h2 {
 	font-size: 1.5000em;
-	color: #d7d7d7;
+	color: #ffffff;
 }
 
 h3 {
 	font-size: 1.10em;
-	color: #797d79;
+	color: #ffffff;
 	padding: 0 0 0 0;
 	margin: 0 0 0 0;
 }
 
 .btn {
 	color: #d7d7d7;
-	background: #729fcf;
+	background: #bb0000;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 10px;	
 }
 
 .btn:hover {
-	background-color: #accae8;
+	background-color: #BF5959;
 }
 
 ul.nav {
@@ -56,7 +56,7 @@ ul.nav li {
 }
 
 #about_me_pic img{
-	border: 8px solid #2a2a2a;
+	border: 8px solid #000000;
 }
 
 #about_me_img div {
@@ -69,14 +69,14 @@ ul.nav li {
 
 .pdf_viewer_btn {
 	color: #d7d7d7;
-	background: #ad7673;
+	background: #221134;
 	padding: 15px 30px;
 	border-radius: 10px;
 	text-align: center;
 }
 
 .pdf_viewer_btn:hover {
-	background-color: #3f2321;
+	background-color: #839ec1;
 }
 
 #resume_toggle {
@@ -90,7 +90,7 @@ ul.nav li {
 }
 
 #contact_me_pic img{
-	border: 8px solid #2a2a2a;
+	border: 8px solid #000000;
 }
 
 #contact_me_img div {
@@ -102,7 +102,7 @@ p.text_content {
 }
 
 div.weblink_box {
-	background-color: #2a2a2a;
+	background-color: #3F3D3D;
 	border-radius: 10px;
 	padding: 10px;
 }
