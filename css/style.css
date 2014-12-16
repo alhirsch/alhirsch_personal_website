@@ -112,3 +112,7 @@ div.weblink_box {
 #weblink_header {
 	text-align: center;
 }
+
+#gift_img img{
+	border: 0px solid #000000;
+}
